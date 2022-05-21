@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "akatsuki-attendance-system",
+  "private_key_id": "87bab91de17256de5498502c7295bcba2f9be59f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCfAIWnqid8P+6Z\n6D+kjIIOpIbE3t/I2D5Hg58UMq6Kzr2voU9BV8+OOA3IVKiDxGYWONT8t/kuCDOy\ngSpvjAI6UFLli7gkobaKDIvFIwQJhbldK816BNFevoe9MBGnszczaJtXJ707Pvbq\n9c2EDfmQkMKT1oiFK+oBDzr77Dgj79gtH+fhwOnvwtpM7P/yw2tbX6XPof4Y/JNI\nSEkz8Dh+c2AfUXuyIGYZ3xiZddAVsxnZfNKBIEtplQPbjzAYjctN+YM8bVbZo8Os\nacI0XbRq8WPVyC++8QRbmF2amg7J9tGwDVDCPjgh4Jyyq6E8iuRnkHT5b78BbCrh\nKlBGSEvlAgMBAAECgf8vuPO9CzkP2fs3oYIpcXcMBVDwLEhy3yVZJ6XT58izQoPa\n0S3hO6O3vL4lGBCJ9P2OaBVNOQsz759cwRQXdLsahFm1kGiBRwOCo4cqqMLhOV2T\nN5u6SZKpl1Lb5VmxrKQ9OYV45GHnePUu8gwC3GbFbNKmBbSgOntZ+0riuFdLK6zY\nhQ/UojGIlwP6cOa7KlQ6mDq7z/XlFTp2WDcB2o+lN0C+iMduH/tqn7N7xUJ0F8jf\nDN+7BZ8FmfWSa44fGOv0MNbp6bFFzblhpWjYDC38JUEABxHGavTelvMGzR1WoGW/\nk1ESbs8d+1sXEnbQk5rxV9SzrLIQX6EMx9A9W+kCgYEAzKUQYFnEXNNfw3fj8Onh\n2tHay72J65EstT9V9K44lf38F8oThCX1hXisCUZh0nIe4LAwQNzfLHW11PiqJ8Ah\nltrHcu4uVlKY1j4T5sreWWVgfyhZfj2ppS9f0Je3l+dVw6ajJSQeg4dNtLhTxTkC\ntdFnjbEZ4cj5giL1X2zEvZcCgYEAxuc+mlq4YclUidp7CuMZ4ghwycWgmlnuaWyg\nO6oT0Vx/zKVOsxeiPA3qhTbKwrz/f/lynLsDy7HEaQIZnUHlCLlkunuYdEdMTRJq\n2M9hSo64YaXkOV8BFm5t+lwooJT7tet1ZyDWE4N2rSjlCTfLuD6tK9PbciSHrB4h\nGkchKeMCgYEAqTgUwpd3+AoRNeD9a0j6qaa99ZtVYKU7AuTMfvdRczYCLum6GZwJ\n2cRe/Yxld09GmSUXwYriQDFVmjXE/fmxzLw8EJ1DU74ZA49xhXZbRjC+CmejGPCE\nR0NVR3ctKT7xfEdewGeNk9VePAHvwzXRN+dgaZn4fOti5mlh3PZj+SECgYAJNICA\nMjygQeoIqzTQjywOeueFXwEMw6a1+FH+EOPz53z+opPe0/QtJVO6MIv3sTl92bSF\nLl6BmcuGNJOs5HTOD45q1vd6QiZ01qpdOFO/WJWN51iFkzEAscGjOYqjy+FOTQRU\n7n8Zzha68s6Ou6dQ8o2fHqHkSW6B967+gVY2kwKBgACzJGnw4nBHbFuPhItfdAIX\nwx0tPXc/EGJ+gnUSxfh3k1bQud4N6j3nMWdXGaHSlhi8M0y7iEW624bfzoT/0R9j\nv2c+AHSzIWRBwK8M/zDZn6FDwqrDwa0uXQNmxFQMWtb1Hnedlb4VDKH6GzsN19Yi\ndWQdkay7WqWXgOkOG83y\n-----END PRIVATE KEY-----\n",
+  "client_email": "akatsuki-attendance-system@akatsuki-attendance-system.iam.gserviceaccount.com",
+  "client_id": "100448454812518841325",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/akatsuki-attendance-system%40akatsuki-attendance-system.iam.gserviceaccount.com"
+}
